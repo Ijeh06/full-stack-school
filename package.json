@@ -15,7 +15,7 @@
     "@prisma/client": "^5.19.1",
     "@types/react-big-calendar": "^1.8.9",
     "moment": "^2.30.1",
-    "next": "14.2.5",
+    "next": "^14.2.23",
     "next-cloudinary": "^6.13.0",
     "prisma": "^5.19.1",
     "react": "^18",
