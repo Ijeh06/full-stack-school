@@ -57,9 +57,9 @@ const LoginPage = () => {
           </Clerk.Field>
           <SignIn.Action
             submit
-            className="bg-blue-500 text-white my-1 rounded-md text-sm p-[10px]"
+            className="bg-green-500 text-white my-1 rounded-md text-sm p-[10px]"
           >
-            Log In
+            Sign In
           </SignIn.Action>
         </SignIn.Step>
       </SignIn.Root>
